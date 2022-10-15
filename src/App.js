@@ -19,7 +19,7 @@ function App() {
   const options = {
     method: 'GET',
     headers: {
-      'X-RapidAPI-Key': '5feac1080bmsh96bb8ff7862c82ep15ac43jsn02c04ba99d37',
+      'X-RapidAPI-Key': '',
       'X-RapidAPI-Host': 'online-movie-database.p.rapidapi.com'
     }
   };
